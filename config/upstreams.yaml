@@ -1,0 +1,4 @@
+upstreams:
+  sis: https://sis.sierra-chalk-service.internal/api
+  reporting: http://reports-staging.corp.local:8080
+  db_host: sierrachalkservice-db.internal:5432
